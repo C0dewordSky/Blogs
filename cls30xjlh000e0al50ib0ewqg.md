@@ -61,25 +61,25 @@ In this blog we will delve into the files in Linux. As we all know that in Linux
 | S:NO | **Symbol** | **Explanation** | **Examples** |
 | --- | --- | --- | --- |
 | 1 | / | The forward slash (/) represents the "root" of the filesystem. (Every directory/file in the Linux filesystem is nested under the root / directory.) / also use for directoty separation and path separation | /  is a root directory |
-| /home/user/samle/test.txt |
+| /home/user/samle/test.txt |  |  |  |
 | 2 | ~ | is equal to the current user's home directlry. E.g: /home/someone/ | cd ~ |
-| ls ~ |
+| ls ~ |  |  |  |
 | 3 | \* | A symbol which stands for "everything". Let's say you want to remove all the .jpg files from your Downloads folder which have their name starting with the "E" character, then you can use this symbol to represent all the other letters except E. See the example. | rm ~/Downloads/E\*.jpg |
-| ls /etc/\*c |
-| nano /var/log/nginx/\* |
+| ls /etc/\*c |  |  |  |
+| nano /var/log/nginx/\* |  |  |  |
 | 4 | & | Run a command in the background. It will return the PID of the newly running process to you and won't show you the output. | sudo apt update & |
 | 5 | && | These symbols written together stand for "and". So if you want to run 2 commands together, you can use it. | sudo apt update && sudo apt upgrade |
 | 6 | \\ | Allows you to continue writing commands/Bash syntax in new line. | sudo \\ |
-| apt \\ |
-| update |
+| apt \\ |  |  |  |
+| update |  |  |  |
 | 7 | .. | In many cases, especially in navigation, the two dots stand for the parent folder. | cd .. |
 | 8 | . | In navigation or referring to files/folders, the dot stands for the current folder. | ls . |
 | 9 | # | Everything after this symbol in the same line is considered to be a comment, so it won't be processed by the shell. | cd # This commands moves you somewhere. |
-| 10 | | | This is called "Piping", which is the process of redirecting the output of one command to the input of another command. Very useful and common in Linux/Unix-like systems. | cat /etc/profile | grep bash |
+| 10 | | |  | This is called "Piping", which is the process of redirecting the output of one command to the input of another command. Very useful and common in Linux/Unix-like systems. |
 | 11 | \&gt; | Take the output of a command and redirect it into a file (will overwrite the whole file). | ls ~ &gt; output.txt |
 | 12 | &lt; | Read the contents of a file into the input of a command. | grep bash &lt; /etc/profile |
 | 13 | \&gt;&gt; | Append a text or a command output into the last line of a file. | echo "First Line" &gt; output.txt |
-| echo "See this is the last line" &gt;&gt; output.txt |
+| echo "See this is the last line" &gt;&gt; output.txt |  |  |  |
 
 ## File Permissions
 
@@ -166,7 +166,7 @@ Access Control Lists (ACLs) provide a more flexible way of controlling access to
 * "**<mark>setfacl</mark>**" : This is used to set ACLs. For e.g. to grant read and write access to a file for a specific user:
     
 * ```bash
-    setfacl -m u:username:rw file.txt
+      setfacl -m u:username:rw file.txt
     ```
     
     `-m` option in `setfacl` stands for "modify," and it is used to modify the ACL of a file or directory by adding or changing ACL entries.
@@ -178,7 +178,7 @@ Access Control Lists (ACLs) provide a more flexible way of controlling access to
 * "**<mark>gefacl</mark>**" : This command is used to view access control lists of a file or directory.
     
     ```bash
-    getfacl file.txt 
+    getfacl file.txt
     ```
     
 * **Removing ACLs:**
@@ -186,7 +186,7 @@ Access Control Lists (ACLs) provide a more flexible way of controlling access to
     * To remove ACLs from a file or directory, you can use the `setfacl` command with the `-b` option:
         
         ```bash
-        cssCopy codesetfacl -b file.txt 
+        setfacl -b file.txt
         ```
         
 
@@ -254,7 +254,7 @@ Scenario: You are a system administrator for a company that hosts sensitive fina
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706779753178/42682d10-cce6-4b75-8945-125c0d02e976.png align="center")
 
-**NOTE: In case you get an error while using acl commands, try installing the acl package by your default package installer. For ubuntu users:** `sudo apt install acl` is the command.
+**NOTE: In case you get an error while using acl commands, try installing the acl package by your default package installer. For ubuntu users:**`sudo apt install acl` is the command.
 
 ## Conclusion
 
