@@ -6,7 +6,7 @@ cuid: clryoeyig00040ald1q897yjq
 slug: day-3-basic-linux-commands
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jG8nlwLRZTM/upload/1373191794359b4d9758d6eebad18c13.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706517396202/fcb7b262-b174-4a66-adc2-24c3f1e24d40.png
-tags: linux, learning, hashnode, 2articles1week, viral, linux-basics, linux-commands, 90daysofdevops, 90daysofdevopschallenge
+tags: linux, technology, learning, hashnode, 2articles1week, technical-writing-1, viral, linux-basics, linux-commands, 90daysofdevops, trainwithshubham, 90daysofdevopschallenge
 
 ---
 
