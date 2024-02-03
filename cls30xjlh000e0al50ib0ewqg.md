@@ -6,7 +6,7 @@ cuid: cls30xjlh000e0al50ib0ewqg
 slug: day-6-file-system-hierarchy-file-permissions-and-access-control-lists
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706765247516/44f64c77-4ee3-4e98-aa9c-edc47ba21e4a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706780274223/82237f6f-0df0-4a6f-a8f9-412de2711f85.png
-tags: docker, aws, devops, containers, containerization, 2articles1week, technical-writing-1, linux-for-beginners, devops-articles, file-permission, devops-journey, 90daysofdevops, 90daysofdevops-chanllenge, access-control-list, devopscommunity
+tags: docker, aws, devops, containers, containerization, 2articles1week, technical-writing-1, linux-for-beginners, devops-articles, file-permission, devops-journey, 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge, devopscommunity
 
 ---
 
