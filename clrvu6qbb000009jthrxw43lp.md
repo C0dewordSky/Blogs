@@ -6,7 +6,7 @@ cuid: clrvu6qbb000009jthrxw43lp
 slug: day-1-introduction-to-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wLknZfsKmxQ/upload/a9a71c1d66cbd3e6ec46c7f54978285f.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706345695636/8e559940-b813-4f29-84b7-cea2522a4558.png
-tags: docker, kubernetes, devops, hashnode, 2articles1week, 90daysofdevops, 90daysofdevopschallenge
+tags: docker, aws, kubernetes, devops, hashnode, 2articles1week, 90daysofdevops, trainwithshubham, 90daysofdevopschallenge
 
 ---
 
