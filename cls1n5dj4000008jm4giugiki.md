@@ -6,7 +6,7 @@ cuid: cls1n5dj4000008jm4giugiki
 slug: day-5-advanced-linux-shell-scripting-with-user-management
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706689948810/48f197e3-84e7-4f58-ae04-827f96b1b080.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706696672517/f143bede-7a8e-4830-b08a-7653456834b8.png
-tags: linux, docker, aws, kubernetes, devops, containers, 2articles1week, technical-writing-1, linux-basics, 90daysofdevops, 90daysofdevops-chanllenge
+tags: linux, docker, aws, kubernetes, devops, containers, 2articles1week, technical-writing-1, linux-basics, devops-articles, devops-journey, 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge, devopscommunity
 
 ---
 
