@@ -214,7 +214,7 @@ Along with that a google form will be given below where you can submit your chea
 32. History of changes made to a specific file
     
     ```bash
-    git lof <file>
+    git log <file>
     ```
     
 33. Show the commits on branchA that are not on branchB
