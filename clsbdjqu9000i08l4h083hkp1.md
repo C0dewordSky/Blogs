@@ -252,7 +252,7 @@ Along with that a google form will be given below where you can submit your chea
 
 Here comes the end of My version of cheat sheet and now its your turn. I've summed up 37 commands starting covering all the corners of Git and GitHub, be it the very basics or be it the advanced one. Go through it and curate your own. I hope this will add value to your learnings.
 
-Submit your cheat-sheet here: [https://docs.google.com/forms/d/e/1FAIpQLSdJvJEprWWsZNAI6SsP\_MyxBquvTnUnkP9dt5B8u4X\_7OeYiA/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSdJvJEprWWsZNAI6SsP_MyxBquvTnUnkP9dt5B8u4X_7OeYiA/viewform?usp=sf_link)
+Submit your cheat-sheet here: [https://forms.gle/om6wLNB3woy7SKwz7](https://forms.gle/om6wLNB3woy7SKwz7)
 
 Ending this with a QUOTE
 
