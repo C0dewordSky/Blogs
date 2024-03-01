@@ -14,7 +14,7 @@ tags: docker, aws, kubernetes, devops, hashnode, k8s, 2articles1week, hashnodeco
 
 Understanding ConfigMaps and Secrets in Kubernetes In the extensive environment of Kubernetes, handling configuration records and sensitive facts is essential for retaining the integrity and protection of your packages. This is in which ConfigMaps and Secrets come into play.
 
-In this blog submit, we will delve into what ConfigMaps and Secrets are, their significance, and how you may successfully make use of them to your Kubernetes deployments.
+In this blog, we will delve into what ConfigMaps and Secrets are, their significance, and how you may successfully make use of them to your Kubernetes deployments.
 
 ## What are ConfigMaps and Secrets?
 
@@ -121,7 +121,7 @@ spec:
       volumes:
       - name: secret-volume
         secret:
-          secretName: my-secret  
+          secretName: my-secret
 ```
 
 ### **Step 3: Applying Changes**
