@@ -1,6 +1,6 @@
 ---
 title: "Day 1 - Terraform Week"
-seoTitle: "Day 1 - Terraform Week "
+seoTitle: "Day 1 - Terraform Week"
 datePublished: Mon Mar 18 2024 12:12:23 GMT+0000 (Coordinated Universal Time)
 cuid: cltwwoja3000508jnh0srehuu
 slug: day-1-terraform-week
